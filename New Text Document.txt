@@ -1,0 +1,2 @@
+db_name: list_data
+table_name: list_table
